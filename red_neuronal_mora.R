@@ -1,7 +1,7 @@
 
-#Ejercicion Redes Neuronales en R
-#Hugo Andres Dorado B.
-#30 Mayo 2017
+#Ejemplo Redes Neuronales en R
+#CIAT - Grupo big data
+
 
 
 #install.packages("caret")
