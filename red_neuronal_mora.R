@@ -1,5 +1,5 @@
 
-#Ejemplo Redes Neuronales en R
+#Ejemplo Redes Neuronales en R (Caso de estudio Mora)
 #CIAT - Grupo big data
 
 
@@ -47,7 +47,7 @@ model <- train(Yield~.,data=training_norm,method = "nnet",
 
 model
 
-#Desempeño del modelo
+#DesempeÃ±o del modelo
 
 pred_val <- predict(model,testing_norm)
 
